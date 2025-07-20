@@ -7,6 +7,24 @@
 
 ---
 
+## 🪙 Token Overview
+
+**Token Name:** OanskyToken  
+**Symbol:** SKY  
+**Decimals:** 18  
+**Total Supply:** 1001 SKY (1001 × 10¹⁸ wei)  
+**Network:** Sepolia Testnet  
+**Contract Address:** [`0xC3F8ffA25823E768500F9361D872d2bc7d275fa1`](https://sepolia.etherscan.io/token/0xC3F8ffA25823E768500F9361D872d2bc7d275fa1)  
+[![View on Etherscan](https://img.shields.io/badge/view%20on-Etherscan-29b6f6?logo=ethereum&logoColor=white)](https://sepolia.etherscan.io/token/0xC3F8ffA25823E768500F9361D872d2bc7d275fa1)
+
+---
+
+![Hardhat](https://img.shields.io/badge/Built%20with-Hardhat-FFCF00?logo=ethereum)
+![OpenZeppelin](https://img.shields.io/badge/Secured%20by-OpenZeppelin-4E5EE4)
+![Verified on Etherscan](https://img.shields.io/badge/Contract-Verified-29b6f6?logo=etherscan)
+
+---
+
 ## 🔧 Tech Stack
 
 - [Solidity](https://soliditylang.org/) (v0.8.x)
