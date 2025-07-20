@@ -2,7 +2,7 @@
 
 **OanskyToken** is a custom ERC-20 token deployed on the Sepolia Ethereum testnet using Hardhat and OpenZeppelin.
 
-> ✅ Contract Address: `0xC3F8ffA25823E768500F9361D872d2bc7d275fa1`  
+> ✅ Token Contract Address: `0xC3F8ffA25823E768500F9361D872d2bc7d275fa1`  
 > 🌐 Explorer: [View on Sepolia Etherscan](https://sepolia.etherscan.io/address/0xC3F8ffA25823E768500F9361D872d2bc7d275fa1)
 
 ---
@@ -47,8 +47,8 @@
 ### 1. Clone the repo and install dependencies
 
 ```bash
-git clone https://github.com/oanskyy/oansky-token.git
-cd oansky-token
+git clone git@github.com:oanskyy/erc20-token.git
+cd erc20-token
 npm install
 ```
 
@@ -76,11 +76,11 @@ npx hardhat run scripts/deploy.js --network sepolia
 
 ## ✅ To-Do (WIP)
 
-- [ ] Verify contract on Etherscan
-- [ ] Transfer tokens to another wallet
+- [x] Verify contract on Etherscan
+- [X] Transfer tokens to another wallet
 - [ ] Build a faucet-style claim dApp
 - [ ] Design a mint/claim UI
-- [ ] Create an airdrop script 
+- [ ] Create an airdrop script
 
 ---
 
